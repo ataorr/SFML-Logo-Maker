@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="FinalProj"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\local\;CMake Files\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\usr\local\lib\cmake\SFML\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/atao/CLionProjects/FinalProj/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/atao/CLionProjects/FinalProj/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/atao/CLionProjects/FinalProj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/atao/CLionProjects/FinalProj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/atao/CLionProjects/FinalProj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/atao/CLionProjects/FinalProj/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/atao/CLionProjects/FinalProj/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/atao/CLionProjects/FinalProj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/atao/CLionProjects/FinalProj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/atao/CLionProjects/FinalProj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/atao/CLionProjects/FinalProj/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/atao/CLionProjects/FinalProj/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/atao/CLionProjects/FinalProj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/atao/CLionProjects/FinalProj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/atao/CLionProjects/FinalProj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FinalProj">
+				<Option output="/Users/atao/CLionProjects/FinalProj/cmake-build-debug/FinalProj" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/atao/CLionProjects/FinalProj/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/atao/CLionProjects/FinalProj/cmake-build-debug/Makefile&quot;  VERBOSE=1 FinalProj"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/atao/CLionProjects/FinalProj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/atao/CLionProjects/FinalProj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/atao/CLionProjects/FinalProj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FinalProj/fast">
+				<Option output="/Users/atao/CLionProjects/FinalProj/cmake-build-debug/FinalProj" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/atao/CLionProjects/FinalProj/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/atao/CLionProjects/FinalProj/cmake-build-debug/Makefile&quot;  VERBOSE=1 FinalProj/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/atao/CLionProjects/FinalProj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/atao/CLionProjects/FinalProj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/atao/CLionProjects/FinalProj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/BarSets.cpp">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/BarSets.h">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/ColorList.cpp">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/ColorList.h">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/ColorPicker.cpp">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/ColorPicker.h">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/EventHandler.h">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/FileNode.cpp">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/FileNode.h">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/FileTree.cpp">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/FileTree.h">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/FontList.cpp">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/FontList.h">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/GuiComponent.cpp">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/GuiComponent.h">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/History.h">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/Image.cpp">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/Image.h">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/Item.cpp">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/Item.h">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/ItemList.cpp">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/ItemList.h">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/Logo.cpp">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/Logo.h">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/Menu.cpp">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/Menu.h">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/MenuBar.cpp">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/MenuBar.h">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/MenuFunctionalities.cpp">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/MenuFunctionalities.h">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/SlideBar.cpp">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/SlideBar.h">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/SwitchMenu.cpp">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/SwitchMenu.h">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/TextInput.cpp">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/TextInput.h">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/gardientBox.cpp">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/gardientBox.h">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/main.cpp">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/mouseCursor.cpp">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/mouseCursor.h">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/snapshot.cpp">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/snapshot.h">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/staticColor.cpp">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/staticColor.h">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/staticFont.cpp">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/staticFont.h">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/textbox.cpp">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/textbox.h">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/type.cpp">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/type.h">
+			<Option target="FinalProj"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/../../../../usr/local/lib/cmake/SFML/SFMLConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/../../../../usr/local/lib/cmake/SFML/SFMLConfigDependencies.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/../../../../usr/local/lib/cmake/SFML/SFMLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/../../../../usr/local/lib/cmake/SFML/SFMLSharedTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/atao/CLionProjects/FinalProj/../../../../usr/local/lib/cmake/SFML/SFMLSharedTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

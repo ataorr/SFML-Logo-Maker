@@ -1,0 +1,3 @@
+/Users/atao/CLionProjects/FinalProj/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/atao/CLionProjects/FinalProj/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/atao/CLionProjects/FinalProj/cmake-build-debug/CMakeFiles/FinalProj.dir
